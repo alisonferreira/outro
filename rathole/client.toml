@@ -1,0 +1,10 @@
+[client]
+remote_addr = "89.116.214.160:2333"
+
+[client.services.rdp]
+token = "barnabe"
+local_addr = "127.0.0.1:3389"
+
+[client.services.win_ssh]
+token = "barnabe"
+local_addr = "127.0.0.1:8080"
