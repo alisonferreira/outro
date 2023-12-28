@@ -1,0 +1,2344 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CrystalReport xmlns="urn:crystal-reports:schemas:report-detail"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:crystal-reports:schemas:report-detail http://www.businessobjects.com/products/xml/CR2008Schema.xsd">
+<ReportHeader>
+<Section SectionNumber="0">
+<Text Name="lblTitleReaderReport"><TextValue>Fechamento por Veículo</TextValue>
+</Text>
+<Picture Name="Picture2" GraphicType="OLE">
+</Picture>
+</Section>
+<Section SectionNumber="1">
+<Field Name="HeaderInfo1" FieldName="{?HeaderInfo}"><FormattedValue>EMPRESA: AUTO ÔNIBUS NARDELLI LTDA,DEFAULT,RECARGA,SOU SALTOAPLICAÇÃO: ACOMP.,BOMBEIROS,BOTOEIRA GRAT,COMUM SST,CORREIOS,EMPRESA 1,ESC NARDELLI,ESC PREF,ESC. GRATUITO,ESP C/AC SST,ESP. C/ AC,ESPECIAL,ESPECIAL SST,ESTUD PREF SSV,ESTUDANTE SST,FUNCIONAL,GESTANTE SST,GESTANTES,IDOSO,PAGANTES,POL CIVIL,POL MILITAR,POPULAR,SENIOR60 SST,SENIOR65 SST,UNITARIO,V.T.,VT SSTDATA INICIAL: 27/12/2023 03:30DATA FINAL: 28/12/2023 03:29</FormattedValue><Value>EMPRESA: AUTO ÔNIBUS NARDELLI LTDA,DEFAULT,RECARGA,SOU SALTOAPLICAÇÃO: ACOMP.,BOMBEIROS,BOTOEIRA GRAT,COMUM SST,CORREIOS,EMPRESA 1,ESC NARDELLI,ESC PREF,ESC. GRATUITO,ESP C/AC SST,ESP. C/ AC,ESPECIAL,ESPECIAL SST,ESTUD PREF SSV,ESTUDANTE SST,FUNCIONAL,GESTANTE SST,GESTANTES,IDOSO,PAGANTES,POL CIVIL,POL MILITAR,POPULAR,SENIOR60 SST,SENIOR65 SST,UNITARIO,V.T.,VT SSTDATA INICIAL: 27/12/2023 03:30DATA FINAL: 28/12/2023 03:29</Value></Field>
+</Section>
+</ReportHeader>
+<ReportFooter>
+<Section SectionNumber="0">
+<CrossTab Name="CrossTab1">
+<RowGroups>
+<RowGroup>
+<RowGroup>
+<RowTotal RowNumber="0">1230</RowTotal>
+<RowTotal RowNumber="1">1232</RowTotal>
+<RowTotal RowNumber="2">1233</RowTotal>
+<RowTotal RowNumber="3">1234</RowTotal>
+<RowTotal RowNumber="4">1236</RowTotal>
+<RowTotal RowNumber="5">1237</RowTotal>
+<RowTotal RowNumber="6">1238</RowTotal>
+<RowTotal RowNumber="7">1239</RowTotal>
+<RowTotal RowNumber="8">1240</RowTotal>
+<RowTotal RowNumber="9">1603</RowTotal>
+<RowTotal RowNumber="10">1604</RowTotal>
+<RowTotal RowNumber="11">1607</RowTotal>
+<RowTotal RowNumber="12">1671</RowTotal>
+<RowTotal RowNumber="13">1672</RowTotal>
+<RowTotal RowNumber="14">1673</RowTotal>
+<RowTotal RowNumber="15">1674</RowTotal>
+<RowTotal RowNumber="16">1675</RowTotal>
+<RowTotal RowNumber="17">1676</RowTotal>
+<RowTotal RowNumber="18">1677</RowTotal>
+<RowTotal RowNumber="19">1678</RowTotal>
+<RowTotal RowNumber="20">1679</RowTotal>
+<RowTotal RowNumber="21">1680</RowTotal>
+<RowTotal RowNumber="22">1682</RowTotal>
+<RowTotal RowNumber="23">1683</RowTotal>
+<RowTotal RowNumber="24">1954</RowTotal>
+<RowTotal RowNumber="25">1955</RowTotal>
+<RowTotal RowNumber="26">1956</RowTotal>
+<RowTotal RowNumber="27">1963</RowTotal>
+<RowTotal RowNumber="28">1964</RowTotal>
+<RowTotal RowNumber="29">1965</RowTotal>
+<RowTotal RowNumber="30">1966</RowTotal>
+<RowTotal RowNumber="31">1968</RowTotal>
+<RowTotal RowNumber="32">1969</RowTotal>
+<RowTotal RowNumber="33">1970</RowTotal>
+<RowTotal RowNumber="34">2260</RowTotal>
+<RowTotal RowNumber="35">20114</RowTotal>
+</RowGroup>
+<RowTotal RowNumber="36">Total</RowTotal>
+</RowGroup>
+</RowGroups>
+<ColumnGroups>
+<ColumnGroup>
+<ColumnGroup>
+<ColumnGroup>
+<ColumnTotal ColumnNumber="0">POPULAR</ColumnTotal>
+<ColumnTotal ColumnNumber="1">V.T.</ColumnTotal>
+</ColumnGroup>
+<ColumnTotal ColumnNumber="2">INTEGRAÇÃO</ColumnTotal>
+</ColumnGroup>
+<ColumnGroup>
+<ColumnGroup>
+<ColumnTotal ColumnNumber="3">ACOMP.</ColumnTotal>
+<ColumnTotal ColumnNumber="4">CORREIOS</ColumnTotal>
+<ColumnTotal ColumnNumber="5">ESC. GRATUITO</ColumnTotal>
+<ColumnTotal ColumnNumber="6">ESP. C/ AC</ColumnTotal>
+<ColumnTotal ColumnNumber="7">ESPECIAL</ColumnTotal>
+<ColumnTotal ColumnNumber="8">GESTANTES</ColumnTotal>
+<ColumnTotal ColumnNumber="9">IDOSO</ColumnTotal>
+<ColumnTotal ColumnNumber="10">PAGANTES</ColumnTotal>
+<ColumnTotal ColumnNumber="11">POPULAR</ColumnTotal>
+<ColumnTotal ColumnNumber="12">V.T.</ColumnTotal>
+</ColumnGroup>
+<ColumnTotal ColumnNumber="13">NORMAL</ColumnTotal>
+</ColumnGroup>
+<ColumnTotal ColumnNumber="14">Total</ColumnTotal>
+</ColumnGroup>
+</ColumnGroups>
+<SummaryFieldLabels>
+<SummaryFieldLabel ColumnNumber="0" Index="0">Qtd</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="0" Index="1">Valor</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="1" Index="0">Qtd</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="1" Index="1">Valor</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="2" Index="0">Qtd</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="2" Index="1">Valor</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="3" Index="0">Qtd</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="3" Index="1">Valor</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="4" Index="0">Qtd</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="4" Index="1">Valor</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="5" Index="0">Qtd</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="5" Index="1">Valor</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="6" Index="0">Qtd</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="6" Index="1">Valor</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="7" Index="0">Qtd</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="7" Index="1">Valor</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="8" Index="0">Qtd</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="8" Index="1">Valor</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="9" Index="0">Qtd</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="9" Index="1">Valor</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="10" Index="0">Qtd</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="10" Index="1">Valor</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="11" Index="0">Qtd</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="11" Index="1">Valor</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="12" Index="0">Qtd</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="12" Index="1">Valor</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="13" Index="0">Qtd</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="13" Index="1">Valor</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="14" Index="0">Qtd</SummaryFieldLabel>
+<SummaryFieldLabel ColumnNumber="14" Index="1">Valor</SummaryFieldLabel>
+</SummaryFieldLabels>
+<Cells>
+<Cell RowNumber="0" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>4</FormattedValue><Value>4.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="0" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>4</FormattedValue><Value>4.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="0" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>8</FormattedValue><Value>8.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="0" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="0" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="0" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="0" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="0" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>3</FormattedValue><Value>3.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="0" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="0" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>38</FormattedValue><Value>38.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="0" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>15</FormattedValue><Value>15.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>57,00</FormattedValue><Value>57.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="0" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>4</FormattedValue><Value>4.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>15,20</FormattedValue><Value>15.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="0" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>14</FormattedValue><Value>14.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>58,80</FormattedValue><Value>58.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="0" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>74</FormattedValue><Value>74.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>131,00</FormattedValue><Value>131.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="0" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>82</FormattedValue><Value>82.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>131,00</FormattedValue><Value>131.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="1" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>5</FormattedValue><Value>5.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="1" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>14</FormattedValue><Value>14.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="1" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>19</FormattedValue><Value>19.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="1" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="1" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>3</FormattedValue><Value>3.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="1" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="1" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>4</FormattedValue><Value>4.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="1" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>16</FormattedValue><Value>16.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="1" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>5</FormattedValue><Value>5.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="1" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>129</FormattedValue><Value>129.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="1" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>71</FormattedValue><Value>71.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>269,80</FormattedValue><Value>269.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="1" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>24</FormattedValue><Value>24.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>91,20</FormattedValue><Value>91.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="1" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>166</FormattedValue><Value>166.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>697,20</FormattedValue><Value>697.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="1" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>420</FormattedValue><Value>420.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1.058,20</FormattedValue><Value>1058.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="1" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>439</FormattedValue><Value>439.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1058,20</FormattedValue><Value>1058.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="2" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>3</FormattedValue><Value>3.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="2" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>9</FormattedValue><Value>9.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="2" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>12</FormattedValue><Value>12.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="2" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="2" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="2" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="2" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="2" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>3</FormattedValue><Value>3.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="2" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="2" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>55</FormattedValue><Value>55.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="2" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>47</FormattedValue><Value>47.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>178,60</FormattedValue><Value>178.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="2" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>25</FormattedValue><Value>25.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>95,00</FormattedValue><Value>95.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="2" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>62</FormattedValue><Value>62.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>260,40</FormattedValue><Value>260.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="2" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>196</FormattedValue><Value>196.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>534,00</FormattedValue><Value>534.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="2" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>208</FormattedValue><Value>208.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>534,00</FormattedValue><Value>534.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="3" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>9</FormattedValue><Value>9.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="3" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>21</FormattedValue><Value>21.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="3" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>30</FormattedValue><Value>30.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="3" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="3" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="3" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="3" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="3" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>3</FormattedValue><Value>3.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="3" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="3" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>45</FormattedValue><Value>45.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="3" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>55</FormattedValue><Value>55.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>209,00</FormattedValue><Value>209.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="3" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>29</FormattedValue><Value>29.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>110,20</FormattedValue><Value>110.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="3" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>42</FormattedValue><Value>42.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>176,40</FormattedValue><Value>176.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="3" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>179</FormattedValue><Value>179.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>495,60</FormattedValue><Value>495.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="3" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>209</FormattedValue><Value>209.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>495,60</FormattedValue><Value>495.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="4" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>6</FormattedValue><Value>6.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="4" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>11</FormattedValue><Value>11.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="4" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>17</FormattedValue><Value>17.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="4" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="4" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="4" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="4" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="4" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="4" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="4" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>28</FormattedValue><Value>28.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="4" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>15</FormattedValue><Value>15.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>57,00</FormattedValue><Value>57.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="4" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>9</FormattedValue><Value>9.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>34,20</FormattedValue><Value>34.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="4" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>31</FormattedValue><Value>31.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>130,20</FormattedValue><Value>130.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="4" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>84</FormattedValue><Value>84.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>221,40</FormattedValue><Value>221.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="4" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>101</FormattedValue><Value>101.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>221,40</FormattedValue><Value>221.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="5" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="5" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>3</FormattedValue><Value>3.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="5" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>4</FormattedValue><Value>4.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="5" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="5" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="5" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="5" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="5" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="5" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="5" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>14</FormattedValue><Value>14.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="5" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>15</FormattedValue><Value>15.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>57,00</FormattedValue><Value>57.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="5" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>11</FormattedValue><Value>11.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>41,80</FormattedValue><Value>41.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="5" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>30</FormattedValue><Value>30.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>126,00</FormattedValue><Value>126.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="5" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>74</FormattedValue><Value>74.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>224,80</FormattedValue><Value>224.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="5" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>78</FormattedValue><Value>78.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>224,80</FormattedValue><Value>224.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="6" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="6" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>27</FormattedValue><Value>27.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="6" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>29</FormattedValue><Value>29.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="6" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="6" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="6" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="6" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="6" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>6</FormattedValue><Value>6.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="6" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="6" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>53</FormattedValue><Value>53.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="6" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>53</FormattedValue><Value>53.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>201,40</FormattedValue><Value>201.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="6" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>23</FormattedValue><Value>23.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>87,40</FormattedValue><Value>87.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="6" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>105</FormattedValue><Value>105.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>441,00</FormattedValue><Value>441.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="6" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>240</FormattedValue><Value>240.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>729,80</FormattedValue><Value>729.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="6" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>269</FormattedValue><Value>269.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>729,80</FormattedValue><Value>729.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="7" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>12</FormattedValue><Value>12.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="7" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>9</FormattedValue><Value>9.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="7" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>21</FormattedValue><Value>21.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="7" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="7" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="7" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="7" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="7" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>4</FormattedValue><Value>4.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="7" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="7" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>78</FormattedValue><Value>78.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="7" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>73</FormattedValue><Value>73.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>277,40</FormattedValue><Value>277.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="7" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>18</FormattedValue><Value>18.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>68,40</FormattedValue><Value>68.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="7" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>74</FormattedValue><Value>74.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>310,80</FormattedValue><Value>310.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="7" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>249</FormattedValue><Value>249.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>656,60</FormattedValue><Value>656.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="7" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>270</FormattedValue><Value>270.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>656,60</FormattedValue><Value>656.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="8" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>9</FormattedValue><Value>9.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="8" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>17</FormattedValue><Value>17.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="8" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>26</FormattedValue><Value>26.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="8" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="8" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="8" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="8" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="8" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>13</FormattedValue><Value>13.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="8" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="8" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>117</FormattedValue><Value>117.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="8" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>77</FormattedValue><Value>77.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>292,60</FormattedValue><Value>292.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="8" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>29</FormattedValue><Value>29.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>110,20</FormattedValue><Value>110.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="8" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>124</FormattedValue><Value>124.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>520,80</FormattedValue><Value>520.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="8" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>360</FormattedValue><Value>360.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>923,60</FormattedValue><Value>923.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="8" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>386</FormattedValue><Value>386.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>923,60</FormattedValue><Value>923.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="9" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>6</FormattedValue><Value>6.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="9" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>8</FormattedValue><Value>8.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="9" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>14</FormattedValue><Value>14.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="9" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="9" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="9" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="9" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="9" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>9</FormattedValue><Value>9.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="9" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="9" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>80</FormattedValue><Value>80.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="9" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>43</FormattedValue><Value>43.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>163,40</FormattedValue><Value>163.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="9" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>23</FormattedValue><Value>23.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>87,40</FormattedValue><Value>87.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="9" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>93</FormattedValue><Value>93.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>390,60</FormattedValue><Value>390.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="9" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>249</FormattedValue><Value>249.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>641,40</FormattedValue><Value>641.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="9" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>263</FormattedValue><Value>263.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>641,40</FormattedValue><Value>641.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="10" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>4</FormattedValue><Value>4.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="10" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>8</FormattedValue><Value>8.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="10" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>12</FormattedValue><Value>12.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="10" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="10" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="10" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="10" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="10" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="10" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="10" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>22</FormattedValue><Value>22.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="10" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>25</FormattedValue><Value>25.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>95,00</FormattedValue><Value>95.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="10" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>13</FormattedValue><Value>13.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>49,40</FormattedValue><Value>49.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="10" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>49</FormattedValue><Value>49.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>205,80</FormattedValue><Value>205.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="10" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>112</FormattedValue><Value>112.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>350,20</FormattedValue><Value>350.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="10" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>124</FormattedValue><Value>124.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>350,20</FormattedValue><Value>350.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="11" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="11" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>4</FormattedValue><Value>4.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="11" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>5</FormattedValue><Value>5.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="11" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="11" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="11" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="11" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="11" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>5</FormattedValue><Value>5.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="11" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="11" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>36</FormattedValue><Value>36.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="11" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>27</FormattedValue><Value>27.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>102,60</FormattedValue><Value>102.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="11" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>6</FormattedValue><Value>6.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>22,80</FormattedValue><Value>22.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="11" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>48</FormattedValue><Value>48.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>201,60</FormattedValue><Value>201.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="11" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>124</FormattedValue><Value>124.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>327,00</FormattedValue><Value>327.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="11" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>129</FormattedValue><Value>129.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>327,00</FormattedValue><Value>327.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="12" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="12" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>8</FormattedValue><Value>8.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="12" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>8</FormattedValue><Value>8.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="12" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="12" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="12" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="12" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="12" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>4</FormattedValue><Value>4.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="12" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="12" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>19</FormattedValue><Value>19.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="12" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>21</FormattedValue><Value>21.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>79,80</FormattedValue><Value>79.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="12" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>11</FormattedValue><Value>11.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>41,80</FormattedValue><Value>41.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="12" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>36</FormattedValue><Value>36.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>151,20</FormattedValue><Value>151.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="12" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>92</FormattedValue><Value>92.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>272,80</FormattedValue><Value>272.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="12" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>100</FormattedValue><Value>100.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>272,80</FormattedValue><Value>272.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="13" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>12</FormattedValue><Value>12.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="13" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>21</FormattedValue><Value>21.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="13" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>33</FormattedValue><Value>33.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="13" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="13" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="13" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="13" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>3</FormattedValue><Value>3.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="13" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>6</FormattedValue><Value>6.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="13" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="13" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>86</FormattedValue><Value>86.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="13" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>59</FormattedValue><Value>59.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>224,20</FormattedValue><Value>224.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="13" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>19</FormattedValue><Value>19.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>72,20</FormattedValue><Value>72.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="13" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>109</FormattedValue><Value>109.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>457,80</FormattedValue><Value>457.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="13" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>285</FormattedValue><Value>285.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>754,20</FormattedValue><Value>754.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="13" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>318</FormattedValue><Value>318.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>754,20</FormattedValue><Value>754.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="14" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="14" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>12</FormattedValue><Value>12.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="14" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>14</FormattedValue><Value>14.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="14" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>3</FormattedValue><Value>3.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="14" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="14" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="14" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>5</FormattedValue><Value>5.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="14" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>8</FormattedValue><Value>8.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="14" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="14" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>138</FormattedValue><Value>138.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="14" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>101</FormattedValue><Value>101.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>383,80</FormattedValue><Value>383.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="14" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>29</FormattedValue><Value>29.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>110,20</FormattedValue><Value>110.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="14" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>152</FormattedValue><Value>152.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>638,40</FormattedValue><Value>638.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="14" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>438</FormattedValue><Value>438.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1.132,40</FormattedValue><Value>1132.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="14" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>452</FormattedValue><Value>452.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1132,40</FormattedValue><Value>1132.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="15" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>4</FormattedValue><Value>4.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="15" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>14</FormattedValue><Value>14.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="15" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>18</FormattedValue><Value>18.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="15" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="15" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="15" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="15" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="15" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>3</FormattedValue><Value>3.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="15" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="15" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>79</FormattedValue><Value>79.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="15" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>80</FormattedValue><Value>80.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>304,00</FormattedValue><Value>304.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="15" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>24</FormattedValue><Value>24.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>91,20</FormattedValue><Value>91.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="15" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>142</FormattedValue><Value>142.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>596,40</FormattedValue><Value>596.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="15" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>335</FormattedValue><Value>335.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>991,60</FormattedValue><Value>991.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="15" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>353</FormattedValue><Value>353.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>991,60</FormattedValue><Value>991.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="16" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>6</FormattedValue><Value>6.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="16" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>13</FormattedValue><Value>13.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="16" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>19</FormattedValue><Value>19.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="16" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>5</FormattedValue><Value>5.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="16" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="16" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="16" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>6</FormattedValue><Value>6.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="16" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>11</FormattedValue><Value>11.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="16" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="16" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>114</FormattedValue><Value>114.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="16" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>84</FormattedValue><Value>84.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>319,20</FormattedValue><Value>319.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="16" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>31</FormattedValue><Value>31.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>117,80</FormattedValue><Value>117.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="16" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>149</FormattedValue><Value>149.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>625,80</FormattedValue><Value>625.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="16" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>400</FormattedValue><Value>400.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1.062,80</FormattedValue><Value>1062.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="16" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>419</FormattedValue><Value>419.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1062,80</FormattedValue><Value>1062.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="17" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="17" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>12</FormattedValue><Value>12.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="17" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>14</FormattedValue><Value>14.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="17" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="17" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="17" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="17" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="17" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>10</FormattedValue><Value>10.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="17" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="17" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>144</FormattedValue><Value>144.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="17" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>80</FormattedValue><Value>80.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>304,00</FormattedValue><Value>304.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="17" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>36</FormattedValue><Value>36.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>136,80</FormattedValue><Value>136.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="17" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>146</FormattedValue><Value>146.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>613,20</FormattedValue><Value>613.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="17" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>419</FormattedValue><Value>419.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1.054,00</FormattedValue><Value>1054.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="17" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>433</FormattedValue><Value>433.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1054,00</FormattedValue><Value>1054.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="18" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>5</FormattedValue><Value>5.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="18" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>16</FormattedValue><Value>16.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="18" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>21</FormattedValue><Value>21.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="18" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="18" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="18" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="18" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="18" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>5</FormattedValue><Value>5.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="18" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>3</FormattedValue><Value>3.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="18" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>110</FormattedValue><Value>110.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="18" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>79</FormattedValue><Value>79.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>300,20</FormattedValue><Value>300.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="18" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>39</FormattedValue><Value>39.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>148,20</FormattedValue><Value>148.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="18" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>140</FormattedValue><Value>140.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>588,00</FormattedValue><Value>588.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="18" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>379</FormattedValue><Value>379.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1.036,40</FormattedValue><Value>1036.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="18" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>400</FormattedValue><Value>400.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1036,40</FormattedValue><Value>1036.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="19" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>7</FormattedValue><Value>7.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="19" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>15</FormattedValue><Value>15.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="19" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>22</FormattedValue><Value>22.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="19" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="19" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="19" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="19" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>4</FormattedValue><Value>4.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="19" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>8</FormattedValue><Value>8.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="19" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="19" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>120</FormattedValue><Value>120.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="19" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>98</FormattedValue><Value>98.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>372,40</FormattedValue><Value>372.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="19" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>36</FormattedValue><Value>36.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>136,80</FormattedValue><Value>136.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="19" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>198</FormattedValue><Value>198.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>831,60</FormattedValue><Value>831.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="19" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>467</FormattedValue><Value>467.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1.340,80</FormattedValue><Value>1340.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="19" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>489</FormattedValue><Value>489.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1340,80</FormattedValue><Value>1340.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="20" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="20" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>4</FormattedValue><Value>4.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="20" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>5</FormattedValue><Value>5.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="20" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="20" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="20" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="20" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="20" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="20" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="20" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>68</FormattedValue><Value>68.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="20" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>36</FormattedValue><Value>36.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>136,80</FormattedValue><Value>136.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="20" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>14</FormattedValue><Value>14.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>53,20</FormattedValue><Value>53.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="20" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>67</FormattedValue><Value>67.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>281,40</FormattedValue><Value>281.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="20" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>187</FormattedValue><Value>187.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>471,40</FormattedValue><Value>471.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="20" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>192</FormattedValue><Value>192.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>471,40</FormattedValue><Value>471.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="21" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>8</FormattedValue><Value>8.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="21" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>7</FormattedValue><Value>7.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="21" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>15</FormattedValue><Value>15.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="21" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="21" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="21" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="21" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="21" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>4</FormattedValue><Value>4.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="21" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="21" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>85</FormattedValue><Value>85.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="21" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>84</FormattedValue><Value>84.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>319,20</FormattedValue><Value>319.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="21" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>47</FormattedValue><Value>47.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>178,60</FormattedValue><Value>178.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="21" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>160</FormattedValue><Value>160.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>672,00</FormattedValue><Value>672.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="21" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>383</FormattedValue><Value>383.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1.169,80</FormattedValue><Value>1169.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="21" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>398</FormattedValue><Value>398.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1169,80</FormattedValue><Value>1169.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="22" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>10</FormattedValue><Value>10.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="22" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>19</FormattedValue><Value>19.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="22" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>29</FormattedValue><Value>29.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="22" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="22" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="22" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="22" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="22" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>9</FormattedValue><Value>9.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="22" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="22" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>100</FormattedValue><Value>100.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="22" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>38</FormattedValue><Value>38.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>144,40</FormattedValue><Value>144.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="22" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>16</FormattedValue><Value>16.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>60,80</FormattedValue><Value>60.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="22" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>89</FormattedValue><Value>89.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>373,80</FormattedValue><Value>373.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="22" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>252</FormattedValue><Value>252.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>579,00</FormattedValue><Value>579.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="22" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>281</FormattedValue><Value>281.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>579,00</FormattedValue><Value>579.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="23" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>6</FormattedValue><Value>6.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="23" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>9</FormattedValue><Value>9.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="23" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>15</FormattedValue><Value>15.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="23" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="23" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="23" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="23" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="23" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>10</FormattedValue><Value>10.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="23" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="23" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>88</FormattedValue><Value>88.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="23" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>54</FormattedValue><Value>54.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>205,20</FormattedValue><Value>205.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="23" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>24</FormattedValue><Value>24.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>91,20</FormattedValue><Value>91.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="23" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>95</FormattedValue><Value>95.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>399,00</FormattedValue><Value>399.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="23" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>272</FormattedValue><Value>272.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>695,40</FormattedValue><Value>695.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="23" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>287</FormattedValue><Value>287.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>695,40</FormattedValue><Value>695.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="24" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>4</FormattedValue><Value>4.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="24" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>21</FormattedValue><Value>21.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="24" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>25</FormattedValue><Value>25.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="24" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="24" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="24" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="24" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>4</FormattedValue><Value>4.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="24" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>13</FormattedValue><Value>13.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="24" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="24" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>148</FormattedValue><Value>148.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="24" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>76</FormattedValue><Value>76.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>288,80</FormattedValue><Value>288.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="24" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>36</FormattedValue><Value>36.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>136,80</FormattedValue><Value>136.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="24" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>189</FormattedValue><Value>189.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>793,80</FormattedValue><Value>793.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="24" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>471</FormattedValue><Value>471.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1.219,40</FormattedValue><Value>1219.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="24" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>496</FormattedValue><Value>496.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1219,40</FormattedValue><Value>1219.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="25" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>8</FormattedValue><Value>8.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="25" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>19</FormattedValue><Value>19.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="25" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>27</FormattedValue><Value>27.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="25" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="25" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="25" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="25" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="25" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>12</FormattedValue><Value>12.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="25" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="25" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>140</FormattedValue><Value>140.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="25" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>58</FormattedValue><Value>58.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>220,40</FormattedValue><Value>220.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="25" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>24</FormattedValue><Value>24.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>91,20</FormattedValue><Value>91.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="25" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>119</FormattedValue><Value>119.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>499,80</FormattedValue><Value>499.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="25" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>357</FormattedValue><Value>357.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>811,40</FormattedValue><Value>811.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="25" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>384</FormattedValue><Value>384.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>811,40</FormattedValue><Value>811.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="26" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="26" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>51</FormattedValue><Value>51.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="26" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>52</FormattedValue><Value>52.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="26" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="26" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="26" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="26" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="26" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="26" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="26" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>31</FormattedValue><Value>31.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="26" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>10</FormattedValue><Value>10.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>38,00</FormattedValue><Value>38.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="26" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>16</FormattedValue><Value>16.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>60,80</FormattedValue><Value>60.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="26" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>118</FormattedValue><Value>118.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>495,60</FormattedValue><Value>495.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="26" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>176</FormattedValue><Value>176.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>594,40</FormattedValue><Value>594.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="26" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>228</FormattedValue><Value>228.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>594,40</FormattedValue><Value>594.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="27" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>12</FormattedValue><Value>12.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="27" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>35</FormattedValue><Value>35.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="27" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>47</FormattedValue><Value>47.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="27" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="27" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="27" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="27" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="27" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>6</FormattedValue><Value>6.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="27" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="27" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>46</FormattedValue><Value>46.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="27" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>31</FormattedValue><Value>31.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>117,80</FormattedValue><Value>117.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="27" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>18</FormattedValue><Value>18.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>68,40</FormattedValue><Value>68.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="27" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>126</FormattedValue><Value>126.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>529,20</FormattedValue><Value>529.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="27" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>229</FormattedValue><Value>229.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>715,40</FormattedValue><Value>715.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="27" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>276</FormattedValue><Value>276.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>715,40</FormattedValue><Value>715.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="28" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>9</FormattedValue><Value>9.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="28" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>19</FormattedValue><Value>19.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="28" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>28</FormattedValue><Value>28.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="28" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>3</FormattedValue><Value>3.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="28" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="28" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="28" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>3</FormattedValue><Value>3.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="28" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>22</FormattedValue><Value>22.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="28" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="28" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>114</FormattedValue><Value>114.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="28" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>110</FormattedValue><Value>110.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>418,00</FormattedValue><Value>418.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="28" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>39</FormattedValue><Value>39.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>148,20</FormattedValue><Value>148.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="28" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>160</FormattedValue><Value>160.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>672,00</FormattedValue><Value>672.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="28" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>453</FormattedValue><Value>453.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1.238,20</FormattedValue><Value>1238.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="28" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>481</FormattedValue><Value>481.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1238,20</FormattedValue><Value>1238.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="29" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>5</FormattedValue><Value>5.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="29" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>38</FormattedValue><Value>38.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="29" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>43</FormattedValue><Value>43.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="29" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="29" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="29" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="29" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="29" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>11</FormattedValue><Value>11.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="29" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="29" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>116</FormattedValue><Value>116.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="29" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>91</FormattedValue><Value>91.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>345,80</FormattedValue><Value>345.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="29" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>42</FormattedValue><Value>42.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>159,60</FormattedValue><Value>159.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="29" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>188</FormattedValue><Value>188.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>789,60</FormattedValue><Value>789.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="29" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>451</FormattedValue><Value>451.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1.295,00</FormattedValue><Value>1295.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="29" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>494</FormattedValue><Value>494.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1295,00</FormattedValue><Value>1295.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="30" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>8</FormattedValue><Value>8.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="30" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>20</FormattedValue><Value>20.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="30" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>28</FormattedValue><Value>28.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="30" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="30" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="30" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="30" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>3</FormattedValue><Value>3.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="30" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>21</FormattedValue><Value>21.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="30" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="30" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>128</FormattedValue><Value>128.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="30" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>119</FormattedValue><Value>119.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>452,20</FormattedValue><Value>452.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="30" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>58</FormattedValue><Value>58.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>220,40</FormattedValue><Value>220.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="30" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>216</FormattedValue><Value>216.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>907,20</FormattedValue><Value>907.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="30" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>545</FormattedValue><Value>545.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1.579,80</FormattedValue><Value>1579.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="30" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>573</FormattedValue><Value>573.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1579,80</FormattedValue><Value>1579.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="31" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>3</FormattedValue><Value>3.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="31" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>6</FormattedValue><Value>6.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="31" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>9</FormattedValue><Value>9.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="31" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="31" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="31" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="31" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="31" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>8</FormattedValue><Value>8.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="31" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="31" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>78</FormattedValue><Value>78.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="31" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>48</FormattedValue><Value>48.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>182,40</FormattedValue><Value>182.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="31" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>22</FormattedValue><Value>22.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>83,60</FormattedValue><Value>83.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="31" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>68</FormattedValue><Value>68.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>285,60</FormattedValue><Value>285.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="31" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>227</FormattedValue><Value>227.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>551,60</FormattedValue><Value>551.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="31" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>236</FormattedValue><Value>236.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>551,60</FormattedValue><Value>551.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="32" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>6</FormattedValue><Value>6.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="32" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>12</FormattedValue><Value>12.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="32" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>18</FormattedValue><Value>18.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="32" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="32" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="32" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="32" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="32" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>6</FormattedValue><Value>6.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="32" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="32" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>35</FormattedValue><Value>35.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="32" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>37</FormattedValue><Value>37.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>140,60</FormattedValue><Value>140.60</Value></CellValue>
+</Cell>
+<Cell RowNumber="32" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>28</FormattedValue><Value>28.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>106,40</FormattedValue><Value>106.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="32" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>99</FormattedValue><Value>99.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>415,80</FormattedValue><Value>415.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="32" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>207</FormattedValue><Value>207.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>662,80</FormattedValue><Value>662.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="32" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>225</FormattedValue><Value>225.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>662,80</FormattedValue><Value>662.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="33" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>7</FormattedValue><Value>7.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="33" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>12</FormattedValue><Value>12.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="33" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>19</FormattedValue><Value>19.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="33" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="33" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="33" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="33" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="33" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>10</FormattedValue><Value>10.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="33" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="33" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>135</FormattedValue><Value>135.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="33" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>83</FormattedValue><Value>83.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>315,40</FormattedValue><Value>315.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="33" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>35</FormattedValue><Value>35.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>133,00</FormattedValue><Value>133.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="33" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>147</FormattedValue><Value>147.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>617,40</FormattedValue><Value>617.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="33" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>412</FormattedValue><Value>412.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1.065,80</FormattedValue><Value>1065.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="33" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>431</FormattedValue><Value>431.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1065,80</FormattedValue><Value>1065.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="34" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="34" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>14</FormattedValue><Value>14.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="34" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>16</FormattedValue><Value>16.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="34" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="34" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="34" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="34" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="34" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>15</FormattedValue><Value>15.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="34" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="34" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>123</FormattedValue><Value>123.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="34" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>68</FormattedValue><Value>68.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>258,40</FormattedValue><Value>258.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="34" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>26</FormattedValue><Value>26.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>98,80</FormattedValue><Value>98.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="34" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>145</FormattedValue><Value>145.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>609,00</FormattedValue><Value>609.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="34" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>379</FormattedValue><Value>379.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>966,20</FormattedValue><Value>966.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="34" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>395</FormattedValue><Value>395.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>966,20</FormattedValue><Value>966.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="35" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>12</FormattedValue><Value>12.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="35" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>20</FormattedValue><Value>20.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="35" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>32</FormattedValue><Value>32.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="35" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>1</FormattedValue><Value>1.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="35" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="35" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>0</FormattedValue><Value>0.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="35" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="35" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>14</FormattedValue><Value>14.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="35" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="35" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>155</FormattedValue><Value>155.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="35" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>75</FormattedValue><Value>75.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>285,00</FormattedValue><Value>285.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="35" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>26</FormattedValue><Value>26.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>98,80</FormattedValue><Value>98.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="35" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>201</FormattedValue><Value>201.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>844,20</FormattedValue><Value>844.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="35" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>476</FormattedValue><Value>476.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1.228,00</FormattedValue><Value>1228.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="35" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>508</FormattedValue><Value>508.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>1228,00</FormattedValue><Value>1228.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="36" ColumnNumber="0">
+<CellValue Index="0"><FormattedValue>202</FormattedValue><Value>202.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="36" ColumnNumber="1">
+<CellValue Index="0"><FormattedValue>552</FormattedValue><Value>552.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="36" ColumnNumber="2">
+<CellValue Index="0"><FormattedValue>754</FormattedValue><Value>754.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="36" ColumnNumber="3">
+<CellValue Index="0"><FormattedValue>35</FormattedValue><Value>35.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="36" ColumnNumber="4">
+<CellValue Index="0"><FormattedValue>10</FormattedValue><Value>10.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="36" ColumnNumber="5">
+<CellValue Index="0"><FormattedValue>2</FormattedValue><Value>2.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="36" ColumnNumber="6">
+<CellValue Index="0"><FormattedValue>59</FormattedValue><Value>59.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="36" ColumnNumber="7">
+<CellValue Index="0"><FormattedValue>284</FormattedValue><Value>284.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="36" ColumnNumber="8">
+<CellValue Index="0"><FormattedValue>25</FormattedValue><Value>25.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="36" ColumnNumber="9">
+<CellValue Index="0"><FormattedValue>3095</FormattedValue><Value>3095.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>0,00</FormattedValue><Value>0.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="36" ColumnNumber="10">
+<CellValue Index="0"><FormattedValue>2136</FormattedValue><Value>2136.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>8.116,80</FormattedValue><Value>8116.80</Value></CellValue>
+</Cell>
+<Cell RowNumber="36" ColumnNumber="11">
+<CellValue Index="0"><FormattedValue>910</FormattedValue><Value>910.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>3.458,00</FormattedValue><Value>3458.00</Value></CellValue>
+</Cell>
+<Cell RowNumber="36" ColumnNumber="12">
+<CellValue Index="0"><FormattedValue>4097</FormattedValue><Value>4097.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>17.207,40</FormattedValue><Value>17207.40</Value></CellValue>
+</Cell>
+<Cell RowNumber="36" ColumnNumber="13">
+<CellValue Index="0"><FormattedValue>10653</FormattedValue><Value>10653.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>28.782,20</FormattedValue><Value>28782.20</Value></CellValue>
+</Cell>
+<Cell RowNumber="36" ColumnNumber="14">
+<CellValue Index="0"><FormattedValue>11407</FormattedValue><Value>11407.00</Value></CellValue>
+<CellValue Index="1"><FormattedValue>28782,20</FormattedValue><Value>28782.20</Value></CellValue>
+</Cell>
+</Cells>
+</CrossTab>
+</Section>
+</ReportFooter>
+</CrystalReport>
