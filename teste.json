@@ -1,0 +1,6802 @@
+{
+  "CrystalReport": {
+    "ReportHeader": {
+      "Section": [
+        {
+          "Text": {
+            "TextValue": "Fechamento por Veículo"
+          },
+          "Picture": ""
+        },
+        {
+          "Field": {
+            "FormattedValue": "EMPRESA: AUTO ÔNIBUS NARDELLI LTDA,DEFAULT,RECARGA,SOU SALTOAPLICAÇÃO: ACOMP.,BOMBEIROS,BOTOEIRA GRAT,COMUM SST,CORREIOS,EMPRESA 1,ESC NARDELLI,ESC PREF,ESC. GRATUITO,ESP C/AC SST,ESP. C/ AC,ESPECIAL,ESPECIAL SST,ESTUD PREF SSV,ESTUDANTE SST,FUNCIONAL,GESTANTE SST,GESTANTES,IDOSO,PAGANTES,POL CIVIL,POL MILITAR,POPULAR,SENIOR60 SST,SENIOR65 SST,UNITARIO,V.T.,VT SSTDATA INICIAL: 27/12/2023 03:30DATA FINAL: 28/12/2023 03:29",
+            "Value": "EMPRESA: AUTO ÔNIBUS NARDELLI LTDA,DEFAULT,RECARGA,SOU SALTOAPLICAÇÃO: ACOMP.,BOMBEIROS,BOTOEIRA GRAT,COMUM SST,CORREIOS,EMPRESA 1,ESC NARDELLI,ESC PREF,ESC. GRATUITO,ESP C/AC SST,ESP. C/ AC,ESPECIAL,ESPECIAL SST,ESTUD PREF SSV,ESTUDANTE SST,FUNCIONAL,GESTANTE SST,GESTANTES,IDOSO,PAGANTES,POL CIVIL,POL MILITAR,POPULAR,SENIOR60 SST,SENIOR65 SST,UNITARIO,V.T.,VT SSTDATA INICIAL: 27/12/2023 03:30DATA FINAL: 28/12/2023 03:29"
+          }
+        }
+      ]
+    },
+    "ReportFooter": {
+      "Section": {
+        "CrossTab": {
+          "RowGroups": {
+            "RowGroup": {
+              "RowGroup": {
+                "RowTotal": [
+                  1230,
+                  1232,
+                  1233,
+                  1234,
+                  1236,
+                  1237,
+                  1238,
+                  1239,
+                  1240,
+                  1603,
+                  1604,
+                  1607,
+                  1671,
+                  1672,
+                  1673,
+                  1674,
+                  1675,
+                  1676,
+                  1677,
+                  1678,
+                  1679,
+                  1680,
+                  1682,
+                  1683,
+                  1954,
+                  1955,
+                  1956,
+                  1963,
+                  1964,
+                  1965,
+                  1966,
+                  1968,
+                  1969,
+                  1970,
+                  2260,
+                  20114
+                ]
+              },
+              "RowTotal": "Total"
+            }
+          },
+          "ColumnGroups": {
+            "ColumnGroup": {
+              "ColumnGroup": [
+                {
+                  "ColumnGroup": {
+                    "ColumnTotal": [
+                      "POPULAR",
+                      "V.T."
+                    ]
+                  },
+                  "ColumnTotal": "INTEGRAÇÃO"
+                },
+                {
+                  "ColumnGroup": {
+                    "ColumnTotal": [
+                      "ACOMP.",
+                      "CORREIOS",
+                      "ESC. GRATUITO",
+                      "ESP. C/ AC",
+                      "ESPECIAL",
+                      "GESTANTES",
+                      "IDOSO",
+                      "PAGANTES",
+                      "POPULAR",
+                      "V.T."
+                    ]
+                  },
+                  "ColumnTotal": "NORMAL"
+                }
+              ],
+              "ColumnTotal": "Total"
+            }
+          },
+          "SummaryFieldLabels": {
+            "SummaryFieldLabel": [
+              "Qtd",
+              "Valor",
+              "Qtd",
+              "Valor",
+              "Qtd",
+              "Valor",
+              "Qtd",
+              "Valor",
+              "Qtd",
+              "Valor",
+              "Qtd",
+              "Valor",
+              "Qtd",
+              "Valor",
+              "Qtd",
+              "Valor",
+              "Qtd",
+              "Valor",
+              "Qtd",
+              "Valor",
+              "Qtd",
+              "Valor",
+              "Qtd",
+              "Valor",
+              "Qtd",
+              "Valor",
+              "Qtd",
+              "Valor",
+              "Qtd",
+              "Valor"
+            ]
+          },
+          "Cells": {
+            "Cell": [
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 4,
+                    "Value": 4
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 4,
+                    "Value": 4
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 8,
+                    "Value": 8
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 3,
+                    "Value": 3
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 38,
+                    "Value": 38
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 15,
+                    "Value": 15
+                  },
+                  {
+                    "FormattedValue": "57,00",
+                    "Value": 57
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 4,
+                    "Value": 4
+                  },
+                  {
+                    "FormattedValue": "15,20",
+                    "Value": 15.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 14,
+                    "Value": 14
+                  },
+                  {
+                    "FormattedValue": "58,80",
+                    "Value": 58.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 74,
+                    "Value": 74
+                  },
+                  {
+                    "FormattedValue": "131,00",
+                    "Value": 131
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 82,
+                    "Value": 82
+                  },
+                  {
+                    "FormattedValue": "131,00",
+                    "Value": 131
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 5,
+                    "Value": 5
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 14,
+                    "Value": 14
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 19,
+                    "Value": 19
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 3,
+                    "Value": 3
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 4,
+                    "Value": 4
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 16,
+                    "Value": 16
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 5,
+                    "Value": 5
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 129,
+                    "Value": 129
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 71,
+                    "Value": 71
+                  },
+                  {
+                    "FormattedValue": "269,80",
+                    "Value": 269.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 24,
+                    "Value": 24
+                  },
+                  {
+                    "FormattedValue": "91,20",
+                    "Value": 91.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 166,
+                    "Value": 166
+                  },
+                  {
+                    "FormattedValue": "697,20",
+                    "Value": 697.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 420,
+                    "Value": 420
+                  },
+                  {
+                    "FormattedValue": "1.058,20",
+                    "Value": 1058.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 439,
+                    "Value": 439
+                  },
+                  {
+                    "FormattedValue": "1058,20",
+                    "Value": 1058.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 3,
+                    "Value": 3
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 9,
+                    "Value": 9
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 12,
+                    "Value": 12
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 3,
+                    "Value": 3
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 55,
+                    "Value": 55
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 47,
+                    "Value": 47
+                  },
+                  {
+                    "FormattedValue": "178,60",
+                    "Value": 178.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 25,
+                    "Value": 25
+                  },
+                  {
+                    "FormattedValue": "95,00",
+                    "Value": 95
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 62,
+                    "Value": 62
+                  },
+                  {
+                    "FormattedValue": "260,40",
+                    "Value": 260.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 196,
+                    "Value": 196
+                  },
+                  {
+                    "FormattedValue": "534,00",
+                    "Value": 534
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 208,
+                    "Value": 208
+                  },
+                  {
+                    "FormattedValue": "534,00",
+                    "Value": 534
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 9,
+                    "Value": 9
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 21,
+                    "Value": 21
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 30,
+                    "Value": 30
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 3,
+                    "Value": 3
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 45,
+                    "Value": 45
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 55,
+                    "Value": 55
+                  },
+                  {
+                    "FormattedValue": "209,00",
+                    "Value": 209
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 29,
+                    "Value": 29
+                  },
+                  {
+                    "FormattedValue": "110,20",
+                    "Value": 110.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 42,
+                    "Value": 42
+                  },
+                  {
+                    "FormattedValue": "176,40",
+                    "Value": 176.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 179,
+                    "Value": 179
+                  },
+                  {
+                    "FormattedValue": "495,60",
+                    "Value": 495.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 209,
+                    "Value": 209
+                  },
+                  {
+                    "FormattedValue": "495,60",
+                    "Value": 495.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 6,
+                    "Value": 6
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 11,
+                    "Value": 11
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 17,
+                    "Value": 17
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 28,
+                    "Value": 28
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 15,
+                    "Value": 15
+                  },
+                  {
+                    "FormattedValue": "57,00",
+                    "Value": 57
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 9,
+                    "Value": 9
+                  },
+                  {
+                    "FormattedValue": "34,20",
+                    "Value": 34.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 31,
+                    "Value": 31
+                  },
+                  {
+                    "FormattedValue": "130,20",
+                    "Value": 130.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 84,
+                    "Value": 84
+                  },
+                  {
+                    "FormattedValue": "221,40",
+                    "Value": 221.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 101,
+                    "Value": 101
+                  },
+                  {
+                    "FormattedValue": "221,40",
+                    "Value": 221.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 3,
+                    "Value": 3
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 4,
+                    "Value": 4
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 14,
+                    "Value": 14
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 15,
+                    "Value": 15
+                  },
+                  {
+                    "FormattedValue": "57,00",
+                    "Value": 57
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 11,
+                    "Value": 11
+                  },
+                  {
+                    "FormattedValue": "41,80",
+                    "Value": 41.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 30,
+                    "Value": 30
+                  },
+                  {
+                    "FormattedValue": "126,00",
+                    "Value": 126
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 74,
+                    "Value": 74
+                  },
+                  {
+                    "FormattedValue": "224,80",
+                    "Value": 224.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 78,
+                    "Value": 78
+                  },
+                  {
+                    "FormattedValue": "224,80",
+                    "Value": 224.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 27,
+                    "Value": 27
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 29,
+                    "Value": 29
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 6,
+                    "Value": 6
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 53,
+                    "Value": 53
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 53,
+                    "Value": 53
+                  },
+                  {
+                    "FormattedValue": "201,40",
+                    "Value": 201.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 23,
+                    "Value": 23
+                  },
+                  {
+                    "FormattedValue": "87,40",
+                    "Value": 87.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 105,
+                    "Value": 105
+                  },
+                  {
+                    "FormattedValue": "441,00",
+                    "Value": 441
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 240,
+                    "Value": 240
+                  },
+                  {
+                    "FormattedValue": "729,80",
+                    "Value": 729.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 269,
+                    "Value": 269
+                  },
+                  {
+                    "FormattedValue": "729,80",
+                    "Value": 729.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 12,
+                    "Value": 12
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 9,
+                    "Value": 9
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 21,
+                    "Value": 21
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 4,
+                    "Value": 4
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 78,
+                    "Value": 78
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 73,
+                    "Value": 73
+                  },
+                  {
+                    "FormattedValue": "277,40",
+                    "Value": 277.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 18,
+                    "Value": 18
+                  },
+                  {
+                    "FormattedValue": "68,40",
+                    "Value": 68.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 74,
+                    "Value": 74
+                  },
+                  {
+                    "FormattedValue": "310,80",
+                    "Value": 310.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 249,
+                    "Value": 249
+                  },
+                  {
+                    "FormattedValue": "656,60",
+                    "Value": 656.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 270,
+                    "Value": 270
+                  },
+                  {
+                    "FormattedValue": "656,60",
+                    "Value": 656.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 9,
+                    "Value": 9
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 17,
+                    "Value": 17
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 26,
+                    "Value": 26
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 13,
+                    "Value": 13
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 117,
+                    "Value": 117
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 77,
+                    "Value": 77
+                  },
+                  {
+                    "FormattedValue": "292,60",
+                    "Value": 292.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 29,
+                    "Value": 29
+                  },
+                  {
+                    "FormattedValue": "110,20",
+                    "Value": 110.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 124,
+                    "Value": 124
+                  },
+                  {
+                    "FormattedValue": "520,80",
+                    "Value": 520.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 360,
+                    "Value": 360
+                  },
+                  {
+                    "FormattedValue": "923,60",
+                    "Value": 923.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 386,
+                    "Value": 386
+                  },
+                  {
+                    "FormattedValue": "923,60",
+                    "Value": 923.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 6,
+                    "Value": 6
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 8,
+                    "Value": 8
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 14,
+                    "Value": 14
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 9,
+                    "Value": 9
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 80,
+                    "Value": 80
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 43,
+                    "Value": 43
+                  },
+                  {
+                    "FormattedValue": "163,40",
+                    "Value": 163.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 23,
+                    "Value": 23
+                  },
+                  {
+                    "FormattedValue": "87,40",
+                    "Value": 87.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 93,
+                    "Value": 93
+                  },
+                  {
+                    "FormattedValue": "390,60",
+                    "Value": 390.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 249,
+                    "Value": 249
+                  },
+                  {
+                    "FormattedValue": "641,40",
+                    "Value": 641.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 263,
+                    "Value": 263
+                  },
+                  {
+                    "FormattedValue": "641,40",
+                    "Value": 641.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 4,
+                    "Value": 4
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 8,
+                    "Value": 8
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 12,
+                    "Value": 12
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 22,
+                    "Value": 22
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 25,
+                    "Value": 25
+                  },
+                  {
+                    "FormattedValue": "95,00",
+                    "Value": 95
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 13,
+                    "Value": 13
+                  },
+                  {
+                    "FormattedValue": "49,40",
+                    "Value": 49.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 49,
+                    "Value": 49
+                  },
+                  {
+                    "FormattedValue": "205,80",
+                    "Value": 205.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 112,
+                    "Value": 112
+                  },
+                  {
+                    "FormattedValue": "350,20",
+                    "Value": 350.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 124,
+                    "Value": 124
+                  },
+                  {
+                    "FormattedValue": "350,20",
+                    "Value": 350.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 4,
+                    "Value": 4
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 5,
+                    "Value": 5
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 5,
+                    "Value": 5
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 36,
+                    "Value": 36
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 27,
+                    "Value": 27
+                  },
+                  {
+                    "FormattedValue": "102,60",
+                    "Value": 102.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 6,
+                    "Value": 6
+                  },
+                  {
+                    "FormattedValue": "22,80",
+                    "Value": 22.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 48,
+                    "Value": 48
+                  },
+                  {
+                    "FormattedValue": "201,60",
+                    "Value": 201.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 124,
+                    "Value": 124
+                  },
+                  {
+                    "FormattedValue": "327,00",
+                    "Value": 327
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 129,
+                    "Value": 129
+                  },
+                  {
+                    "FormattedValue": "327,00",
+                    "Value": 327
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 8,
+                    "Value": 8
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 8,
+                    "Value": 8
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 4,
+                    "Value": 4
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 19,
+                    "Value": 19
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 21,
+                    "Value": 21
+                  },
+                  {
+                    "FormattedValue": "79,80",
+                    "Value": 79.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 11,
+                    "Value": 11
+                  },
+                  {
+                    "FormattedValue": "41,80",
+                    "Value": 41.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 36,
+                    "Value": 36
+                  },
+                  {
+                    "FormattedValue": "151,20",
+                    "Value": 151.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 92,
+                    "Value": 92
+                  },
+                  {
+                    "FormattedValue": "272,80",
+                    "Value": 272.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 100,
+                    "Value": 100
+                  },
+                  {
+                    "FormattedValue": "272,80",
+                    "Value": 272.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 12,
+                    "Value": 12
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 21,
+                    "Value": 21
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 33,
+                    "Value": 33
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 3,
+                    "Value": 3
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 6,
+                    "Value": 6
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 86,
+                    "Value": 86
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 59,
+                    "Value": 59
+                  },
+                  {
+                    "FormattedValue": "224,20",
+                    "Value": 224.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 19,
+                    "Value": 19
+                  },
+                  {
+                    "FormattedValue": "72,20",
+                    "Value": 72.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 109,
+                    "Value": 109
+                  },
+                  {
+                    "FormattedValue": "457,80",
+                    "Value": 457.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 285,
+                    "Value": 285
+                  },
+                  {
+                    "FormattedValue": "754,20",
+                    "Value": 754.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 318,
+                    "Value": 318
+                  },
+                  {
+                    "FormattedValue": "754,20",
+                    "Value": 754.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 12,
+                    "Value": 12
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 14,
+                    "Value": 14
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 3,
+                    "Value": 3
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 5,
+                    "Value": 5
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 8,
+                    "Value": 8
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 138,
+                    "Value": 138
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 101,
+                    "Value": 101
+                  },
+                  {
+                    "FormattedValue": "383,80",
+                    "Value": 383.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 29,
+                    "Value": 29
+                  },
+                  {
+                    "FormattedValue": "110,20",
+                    "Value": 110.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 152,
+                    "Value": 152
+                  },
+                  {
+                    "FormattedValue": "638,40",
+                    "Value": 638.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 438,
+                    "Value": 438
+                  },
+                  {
+                    "FormattedValue": "1.132,40",
+                    "Value": 1132.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 452,
+                    "Value": 452
+                  },
+                  {
+                    "FormattedValue": "1132,40",
+                    "Value": 1132.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 4,
+                    "Value": 4
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 14,
+                    "Value": 14
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 18,
+                    "Value": 18
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 3,
+                    "Value": 3
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 79,
+                    "Value": 79
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 80,
+                    "Value": 80
+                  },
+                  {
+                    "FormattedValue": "304,00",
+                    "Value": 304
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 24,
+                    "Value": 24
+                  },
+                  {
+                    "FormattedValue": "91,20",
+                    "Value": 91.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 142,
+                    "Value": 142
+                  },
+                  {
+                    "FormattedValue": "596,40",
+                    "Value": 596.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 335,
+                    "Value": 335
+                  },
+                  {
+                    "FormattedValue": "991,60",
+                    "Value": 991.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 353,
+                    "Value": 353
+                  },
+                  {
+                    "FormattedValue": "991,60",
+                    "Value": 991.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 6,
+                    "Value": 6
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 13,
+                    "Value": 13
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 19,
+                    "Value": 19
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 5,
+                    "Value": 5
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 6,
+                    "Value": 6
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 11,
+                    "Value": 11
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 114,
+                    "Value": 114
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 84,
+                    "Value": 84
+                  },
+                  {
+                    "FormattedValue": "319,20",
+                    "Value": 319.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 31,
+                    "Value": 31
+                  },
+                  {
+                    "FormattedValue": "117,80",
+                    "Value": 117.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 149,
+                    "Value": 149
+                  },
+                  {
+                    "FormattedValue": "625,80",
+                    "Value": 625.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 400,
+                    "Value": 400
+                  },
+                  {
+                    "FormattedValue": "1.062,80",
+                    "Value": 1062.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 419,
+                    "Value": 419
+                  },
+                  {
+                    "FormattedValue": "1062,80",
+                    "Value": 1062.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 12,
+                    "Value": 12
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 14,
+                    "Value": 14
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 10,
+                    "Value": 10
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 144,
+                    "Value": 144
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 80,
+                    "Value": 80
+                  },
+                  {
+                    "FormattedValue": "304,00",
+                    "Value": 304
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 36,
+                    "Value": 36
+                  },
+                  {
+                    "FormattedValue": "136,80",
+                    "Value": 136.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 146,
+                    "Value": 146
+                  },
+                  {
+                    "FormattedValue": "613,20",
+                    "Value": 613.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 419,
+                    "Value": 419
+                  },
+                  {
+                    "FormattedValue": "1.054,00",
+                    "Value": 1054
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 433,
+                    "Value": 433
+                  },
+                  {
+                    "FormattedValue": "1054,00",
+                    "Value": 1054
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 5,
+                    "Value": 5
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 16,
+                    "Value": 16
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 21,
+                    "Value": 21
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 5,
+                    "Value": 5
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 3,
+                    "Value": 3
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 110,
+                    "Value": 110
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 79,
+                    "Value": 79
+                  },
+                  {
+                    "FormattedValue": "300,20",
+                    "Value": 300.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 39,
+                    "Value": 39
+                  },
+                  {
+                    "FormattedValue": "148,20",
+                    "Value": 148.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 140,
+                    "Value": 140
+                  },
+                  {
+                    "FormattedValue": "588,00",
+                    "Value": 588
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 379,
+                    "Value": 379
+                  },
+                  {
+                    "FormattedValue": "1.036,40",
+                    "Value": 1036.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 400,
+                    "Value": 400
+                  },
+                  {
+                    "FormattedValue": "1036,40",
+                    "Value": 1036.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 7,
+                    "Value": 7
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 15,
+                    "Value": 15
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 22,
+                    "Value": 22
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 4,
+                    "Value": 4
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 8,
+                    "Value": 8
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 120,
+                    "Value": 120
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 98,
+                    "Value": 98
+                  },
+                  {
+                    "FormattedValue": "372,40",
+                    "Value": 372.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 36,
+                    "Value": 36
+                  },
+                  {
+                    "FormattedValue": "136,80",
+                    "Value": 136.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 198,
+                    "Value": 198
+                  },
+                  {
+                    "FormattedValue": "831,60",
+                    "Value": 831.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 467,
+                    "Value": 467
+                  },
+                  {
+                    "FormattedValue": "1.340,80",
+                    "Value": 1340.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 489,
+                    "Value": 489
+                  },
+                  {
+                    "FormattedValue": "1340,80",
+                    "Value": 1340.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 4,
+                    "Value": 4
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 5,
+                    "Value": 5
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 68,
+                    "Value": 68
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 36,
+                    "Value": 36
+                  },
+                  {
+                    "FormattedValue": "136,80",
+                    "Value": 136.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 14,
+                    "Value": 14
+                  },
+                  {
+                    "FormattedValue": "53,20",
+                    "Value": 53.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 67,
+                    "Value": 67
+                  },
+                  {
+                    "FormattedValue": "281,40",
+                    "Value": 281.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 187,
+                    "Value": 187
+                  },
+                  {
+                    "FormattedValue": "471,40",
+                    "Value": 471.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 192,
+                    "Value": 192
+                  },
+                  {
+                    "FormattedValue": "471,40",
+                    "Value": 471.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 8,
+                    "Value": 8
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 7,
+                    "Value": 7
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 15,
+                    "Value": 15
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 4,
+                    "Value": 4
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 85,
+                    "Value": 85
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 84,
+                    "Value": 84
+                  },
+                  {
+                    "FormattedValue": "319,20",
+                    "Value": 319.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 47,
+                    "Value": 47
+                  },
+                  {
+                    "FormattedValue": "178,60",
+                    "Value": 178.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 160,
+                    "Value": 160
+                  },
+                  {
+                    "FormattedValue": "672,00",
+                    "Value": 672
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 383,
+                    "Value": 383
+                  },
+                  {
+                    "FormattedValue": "1.169,80",
+                    "Value": 1169.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 398,
+                    "Value": 398
+                  },
+                  {
+                    "FormattedValue": "1169,80",
+                    "Value": 1169.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 10,
+                    "Value": 10
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 19,
+                    "Value": 19
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 29,
+                    "Value": 29
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 9,
+                    "Value": 9
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 100,
+                    "Value": 100
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 38,
+                    "Value": 38
+                  },
+                  {
+                    "FormattedValue": "144,40",
+                    "Value": 144.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 16,
+                    "Value": 16
+                  },
+                  {
+                    "FormattedValue": "60,80",
+                    "Value": 60.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 89,
+                    "Value": 89
+                  },
+                  {
+                    "FormattedValue": "373,80",
+                    "Value": 373.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 252,
+                    "Value": 252
+                  },
+                  {
+                    "FormattedValue": "579,00",
+                    "Value": 579
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 281,
+                    "Value": 281
+                  },
+                  {
+                    "FormattedValue": "579,00",
+                    "Value": 579
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 6,
+                    "Value": 6
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 9,
+                    "Value": 9
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 15,
+                    "Value": 15
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 10,
+                    "Value": 10
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 88,
+                    "Value": 88
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 54,
+                    "Value": 54
+                  },
+                  {
+                    "FormattedValue": "205,20",
+                    "Value": 205.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 24,
+                    "Value": 24
+                  },
+                  {
+                    "FormattedValue": "91,20",
+                    "Value": 91.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 95,
+                    "Value": 95
+                  },
+                  {
+                    "FormattedValue": "399,00",
+                    "Value": 399
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 272,
+                    "Value": 272
+                  },
+                  {
+                    "FormattedValue": "695,40",
+                    "Value": 695.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 287,
+                    "Value": 287
+                  },
+                  {
+                    "FormattedValue": "695,40",
+                    "Value": 695.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 4,
+                    "Value": 4
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 21,
+                    "Value": 21
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 25,
+                    "Value": 25
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 4,
+                    "Value": 4
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 13,
+                    "Value": 13
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 148,
+                    "Value": 148
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 76,
+                    "Value": 76
+                  },
+                  {
+                    "FormattedValue": "288,80",
+                    "Value": 288.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 36,
+                    "Value": 36
+                  },
+                  {
+                    "FormattedValue": "136,80",
+                    "Value": 136.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 189,
+                    "Value": 189
+                  },
+                  {
+                    "FormattedValue": "793,80",
+                    "Value": 793.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 471,
+                    "Value": 471
+                  },
+                  {
+                    "FormattedValue": "1.219,40",
+                    "Value": 1219.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 496,
+                    "Value": 496
+                  },
+                  {
+                    "FormattedValue": "1219,40",
+                    "Value": 1219.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 8,
+                    "Value": 8
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 19,
+                    "Value": 19
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 27,
+                    "Value": 27
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 12,
+                    "Value": 12
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 140,
+                    "Value": 140
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 58,
+                    "Value": 58
+                  },
+                  {
+                    "FormattedValue": "220,40",
+                    "Value": 220.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 24,
+                    "Value": 24
+                  },
+                  {
+                    "FormattedValue": "91,20",
+                    "Value": 91.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 119,
+                    "Value": 119
+                  },
+                  {
+                    "FormattedValue": "499,80",
+                    "Value": 499.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 357,
+                    "Value": 357
+                  },
+                  {
+                    "FormattedValue": "811,40",
+                    "Value": 811.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 384,
+                    "Value": 384
+                  },
+                  {
+                    "FormattedValue": "811,40",
+                    "Value": 811.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 51,
+                    "Value": 51
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 52,
+                    "Value": 52
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 31,
+                    "Value": 31
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 10,
+                    "Value": 10
+                  },
+                  {
+                    "FormattedValue": "38,00",
+                    "Value": 38
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 16,
+                    "Value": 16
+                  },
+                  {
+                    "FormattedValue": "60,80",
+                    "Value": 60.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 118,
+                    "Value": 118
+                  },
+                  {
+                    "FormattedValue": "495,60",
+                    "Value": 495.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 176,
+                    "Value": 176
+                  },
+                  {
+                    "FormattedValue": "594,40",
+                    "Value": 594.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 228,
+                    "Value": 228
+                  },
+                  {
+                    "FormattedValue": "594,40",
+                    "Value": 594.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 12,
+                    "Value": 12
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 35,
+                    "Value": 35
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 47,
+                    "Value": 47
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 6,
+                    "Value": 6
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 46,
+                    "Value": 46
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 31,
+                    "Value": 31
+                  },
+                  {
+                    "FormattedValue": "117,80",
+                    "Value": 117.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 18,
+                    "Value": 18
+                  },
+                  {
+                    "FormattedValue": "68,40",
+                    "Value": 68.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 126,
+                    "Value": 126
+                  },
+                  {
+                    "FormattedValue": "529,20",
+                    "Value": 529.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 229,
+                    "Value": 229
+                  },
+                  {
+                    "FormattedValue": "715,40",
+                    "Value": 715.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 276,
+                    "Value": 276
+                  },
+                  {
+                    "FormattedValue": "715,40",
+                    "Value": 715.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 9,
+                    "Value": 9
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 19,
+                    "Value": 19
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 28,
+                    "Value": 28
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 3,
+                    "Value": 3
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 3,
+                    "Value": 3
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 22,
+                    "Value": 22
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 114,
+                    "Value": 114
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 110,
+                    "Value": 110
+                  },
+                  {
+                    "FormattedValue": "418,00",
+                    "Value": 418
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 39,
+                    "Value": 39
+                  },
+                  {
+                    "FormattedValue": "148,20",
+                    "Value": 148.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 160,
+                    "Value": 160
+                  },
+                  {
+                    "FormattedValue": "672,00",
+                    "Value": 672
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 453,
+                    "Value": 453
+                  },
+                  {
+                    "FormattedValue": "1.238,20",
+                    "Value": 1238.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 481,
+                    "Value": 481
+                  },
+                  {
+                    "FormattedValue": "1238,20",
+                    "Value": 1238.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 5,
+                    "Value": 5
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 38,
+                    "Value": 38
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 43,
+                    "Value": 43
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 11,
+                    "Value": 11
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 116,
+                    "Value": 116
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 91,
+                    "Value": 91
+                  },
+                  {
+                    "FormattedValue": "345,80",
+                    "Value": 345.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 42,
+                    "Value": 42
+                  },
+                  {
+                    "FormattedValue": "159,60",
+                    "Value": 159.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 188,
+                    "Value": 188
+                  },
+                  {
+                    "FormattedValue": "789,60",
+                    "Value": 789.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 451,
+                    "Value": 451
+                  },
+                  {
+                    "FormattedValue": "1.295,00",
+                    "Value": 1295
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 494,
+                    "Value": 494
+                  },
+                  {
+                    "FormattedValue": "1295,00",
+                    "Value": 1295
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 8,
+                    "Value": 8
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 20,
+                    "Value": 20
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 28,
+                    "Value": 28
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 3,
+                    "Value": 3
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 21,
+                    "Value": 21
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 128,
+                    "Value": 128
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 119,
+                    "Value": 119
+                  },
+                  {
+                    "FormattedValue": "452,20",
+                    "Value": 452.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 58,
+                    "Value": 58
+                  },
+                  {
+                    "FormattedValue": "220,40",
+                    "Value": 220.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 216,
+                    "Value": 216
+                  },
+                  {
+                    "FormattedValue": "907,20",
+                    "Value": 907.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 545,
+                    "Value": 545
+                  },
+                  {
+                    "FormattedValue": "1.579,80",
+                    "Value": 1579.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 573,
+                    "Value": 573
+                  },
+                  {
+                    "FormattedValue": "1579,80",
+                    "Value": 1579.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 3,
+                    "Value": 3
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 6,
+                    "Value": 6
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 9,
+                    "Value": 9
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 8,
+                    "Value": 8
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 78,
+                    "Value": 78
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 48,
+                    "Value": 48
+                  },
+                  {
+                    "FormattedValue": "182,40",
+                    "Value": 182.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 22,
+                    "Value": 22
+                  },
+                  {
+                    "FormattedValue": "83,60",
+                    "Value": 83.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 68,
+                    "Value": 68
+                  },
+                  {
+                    "FormattedValue": "285,60",
+                    "Value": 285.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 227,
+                    "Value": 227
+                  },
+                  {
+                    "FormattedValue": "551,60",
+                    "Value": 551.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 236,
+                    "Value": 236
+                  },
+                  {
+                    "FormattedValue": "551,60",
+                    "Value": 551.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 6,
+                    "Value": 6
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 12,
+                    "Value": 12
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 18,
+                    "Value": 18
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 6,
+                    "Value": 6
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 35,
+                    "Value": 35
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 37,
+                    "Value": 37
+                  },
+                  {
+                    "FormattedValue": "140,60",
+                    "Value": 140.6
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 28,
+                    "Value": 28
+                  },
+                  {
+                    "FormattedValue": "106,40",
+                    "Value": 106.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 99,
+                    "Value": 99
+                  },
+                  {
+                    "FormattedValue": "415,80",
+                    "Value": 415.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 207,
+                    "Value": 207
+                  },
+                  {
+                    "FormattedValue": "662,80",
+                    "Value": 662.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 225,
+                    "Value": 225
+                  },
+                  {
+                    "FormattedValue": "662,80",
+                    "Value": 662.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 7,
+                    "Value": 7
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 12,
+                    "Value": 12
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 19,
+                    "Value": 19
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 10,
+                    "Value": 10
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 135,
+                    "Value": 135
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 83,
+                    "Value": 83
+                  },
+                  {
+                    "FormattedValue": "315,40",
+                    "Value": 315.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 35,
+                    "Value": 35
+                  },
+                  {
+                    "FormattedValue": "133,00",
+                    "Value": 133
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 147,
+                    "Value": 147
+                  },
+                  {
+                    "FormattedValue": "617,40",
+                    "Value": 617.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 412,
+                    "Value": 412
+                  },
+                  {
+                    "FormattedValue": "1.065,80",
+                    "Value": 1065.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 431,
+                    "Value": 431
+                  },
+                  {
+                    "FormattedValue": "1065,80",
+                    "Value": 1065.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 14,
+                    "Value": 14
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 16,
+                    "Value": 16
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 15,
+                    "Value": 15
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 123,
+                    "Value": 123
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 68,
+                    "Value": 68
+                  },
+                  {
+                    "FormattedValue": "258,40",
+                    "Value": 258.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 26,
+                    "Value": 26
+                  },
+                  {
+                    "FormattedValue": "98,80",
+                    "Value": 98.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 145,
+                    "Value": 145
+                  },
+                  {
+                    "FormattedValue": "609,00",
+                    "Value": 609
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 379,
+                    "Value": 379
+                  },
+                  {
+                    "FormattedValue": "966,20",
+                    "Value": 966.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 395,
+                    "Value": 395
+                  },
+                  {
+                    "FormattedValue": "966,20",
+                    "Value": 966.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 12,
+                    "Value": 12
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 20,
+                    "Value": 20
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 32,
+                    "Value": 32
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 1,
+                    "Value": 1
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 0,
+                    "Value": 0
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 14,
+                    "Value": 14
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 155,
+                    "Value": 155
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 75,
+                    "Value": 75
+                  },
+                  {
+                    "FormattedValue": "285,00",
+                    "Value": 285
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 26,
+                    "Value": 26
+                  },
+                  {
+                    "FormattedValue": "98,80",
+                    "Value": 98.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 201,
+                    "Value": 201
+                  },
+                  {
+                    "FormattedValue": "844,20",
+                    "Value": 844.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 476,
+                    "Value": 476
+                  },
+                  {
+                    "FormattedValue": "1.228,00",
+                    "Value": 1228
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 508,
+                    "Value": 508
+                  },
+                  {
+                    "FormattedValue": "1228,00",
+                    "Value": 1228
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 202,
+                    "Value": 202
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 552,
+                    "Value": 552
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 754,
+                    "Value": 754
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 35,
+                    "Value": 35
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 10,
+                    "Value": 10
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2,
+                    "Value": 2
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 59,
+                    "Value": 59
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 284,
+                    "Value": 284
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 25,
+                    "Value": 25
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 3095,
+                    "Value": 3095
+                  },
+                  {
+                    "FormattedValue": "0,00",
+                    "Value": 0
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 2136,
+                    "Value": 2136
+                  },
+                  {
+                    "FormattedValue": "8.116,80",
+                    "Value": 8116.8
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 910,
+                    "Value": 910
+                  },
+                  {
+                    "FormattedValue": "3.458,00",
+                    "Value": 3458
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 4097,
+                    "Value": 4097
+                  },
+                  {
+                    "FormattedValue": "17.207,40",
+                    "Value": 17207.4
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 10653,
+                    "Value": 10653
+                  },
+                  {
+                    "FormattedValue": "28.782,20",
+                    "Value": 28782.2
+                  }
+                ]
+              },
+              {
+                "CellValue": [
+                  {
+                    "FormattedValue": 11407,
+                    "Value": 11407
+                  },
+                  {
+                    "FormattedValue": "28782,20",
+                    "Value": 28782.2
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
